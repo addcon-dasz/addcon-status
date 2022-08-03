@@ -1,4 +1,4 @@
-title: ADDCON Systems Status
+title: ADDCON Group Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -53,11 +53,11 @@ params:
         video. It is reliant on our CDN.
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#0a0c0f"
+  brand: "#f57920"
   enableLastMod: true
   headerTextColor: white
-  logo: logo.png
-  incidentPostsPerPage: 10
+  logo: https://addcon.com/images/addcon/logo/addcon.png
+  incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
