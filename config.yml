@@ -40,17 +40,37 @@ params:
     - category: Uncategorized
       name: addcon.com website
     - name: File server
-      category: Uncategorized
+      category: Corporate Network
       description: Within corporate network
     - name: Citrix & Navision
-      category: Uncategorized
+      category: Corporate Network
       description: Within corporate network
     - name: Printing & Scanning
-      category: Uncategorized
+      category: Corporate Network
       description: Within corporate network
     - name: Internet access
-      category: Uncategorized
-      description: Within corporate network
+      category: Corporate Network
+      description: Access to the internet from inside the corporate network
+    - name: Clue
+      category: Norway specific
+    - name: Synergi
+      category: Norway specific
+    - name: Emmasped
+      category: Norway specific
+    - name: IBM Lotus Notes
+      category: Corporate Network
+    - name: BarTender
+      category: Germany specific
+      description: Shipping label printing
+    - name: SFirm
+      category: Germany Specific
+      description: Corporate banking
+    - name: Kelio Bodet
+      category: Germany specific
+      description: Time & Attendance
+    - name: Vodafone Telephony
+      category: Germany specific
+      description: Landline and Mobile telephony in Germany
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#f57920"
   enableLastMod: false
@@ -58,9 +78,7 @@ params:
   logo: https://addcon.com/images/addcon/logo/addcon.png
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: test
-      link: addcon.com
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -72,6 +90,13 @@ params:
   categories:
     - name: Uncategorized
       untitled: true
+    - name: Corporate Network
+      description: Services available only while at Bitterfeld, Porsgrunn or via VPN
+      closed: true
+    - name: Germany specific
+      description: Services specific to German users
+    - name: Norway specific
+      description: Services specific to Norwegian users
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
