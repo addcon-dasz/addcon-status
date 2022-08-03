@@ -98,7 +98,7 @@ params:
       untitled: true
     - name: Corporate Network
       description: Services available only while at Bitterfeld, Porsgrunn or via VPN
-      closed: false
+      closed: true
     - name: Germany specific
       description: Services specific to German users
       closed: true
