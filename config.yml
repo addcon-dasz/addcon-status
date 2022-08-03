@@ -78,7 +78,7 @@ params:
       category: Germany specific
       description: Landline and Mobile telephony in Germany
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#f57920"
+  brand: "#181a1b"
   enableLastMod: false
   headerTextColor: white
   logo: https://addcon.com/images/addcon/logo/addcon.png
