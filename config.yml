@@ -92,11 +92,13 @@ params:
       untitled: true
     - name: Corporate Network
       description: Services available only while at Bitterfeld, Porsgrunn or via VPN
-      closed: true
+      closed: false
     - name: Germany specific
       description: Services specific to German users
+      closed: true
     - name: Norway specific
       description: Services specific to Norwegian users
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
