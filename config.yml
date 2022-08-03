@@ -44,13 +44,13 @@ params:
       description: Email, Teams, SharePoint functionality
     - name: File server
       category: Corporate Network
-      description: Within corporate network
+      description: Access to drive H and N
     - name: Citrix & Navision
       category: Corporate Network
-      description: Within corporate network
+      description: Functionality of Citrix and Navision
     - name: Printing & Scanning
       category: Corporate Network
-      description: Within corporate network
+      description: Access to printers located on company premises
     - name: Internet access
       category: Corporate Network
       description: Access to the internet from inside the corporate network
