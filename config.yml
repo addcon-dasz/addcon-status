@@ -85,7 +85,7 @@ params:
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
   customTabs: []
-  alwaysKeepBrandColor: true
+  alwaysKeepBrandColor: false
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#cc4400"
