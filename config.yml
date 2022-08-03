@@ -109,6 +109,7 @@ params:
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
 
+
     If you are experiencing an issue that is not posted here, please send an email to helpdesk@addcon.com
   enableCustomHTML: false
   useLargeHeaderDesign: false
