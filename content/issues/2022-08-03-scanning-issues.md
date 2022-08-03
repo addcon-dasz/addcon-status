@@ -5,7 +5,7 @@ date: 2022-08-02T09:00:17.060Z
 resolved: true
 draft: false
 informational: false
-pin: false
+pin: true
 resolvedWhen: 2022-08-03T09:30:00.000Z
 affected:
   - printing-scanning
