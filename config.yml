@@ -39,6 +39,9 @@ params:
   systems:
     - category: Uncategorized
       name: addcon.com website
+    - name: Microsoft 365
+      category: Uncategorized
+      description: Email, Teams, SharePoint functionality
     - name: File server
       category: Corporate Network
       description: Within corporate network
@@ -51,14 +54,17 @@ params:
     - name: Internet access
       category: Corporate Network
       description: Access to the internet from inside the corporate network
+    - name: WiFi
+      category: Corporate Network
+      description: WiFi functionality in the offices
+    - name: IBM Lotus Notes
+      category: Corporate Network
     - name: Clue
-      category: Norway specific
-    - name: Synergi
       category: Norway specific
     - name: Emmasped
       category: Norway specific
-    - name: IBM Lotus Notes
-      category: Corporate Network
+    - name: Synergi
+      category: Norway specific
     - name: BarTender
       category: Germany specific
       description: Shipping label printing
