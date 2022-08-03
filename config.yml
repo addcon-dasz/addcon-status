@@ -36,7 +36,21 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
-  systems: []
+  systems:
+    - category: Uncategorized
+      name: addcon.com website
+    - name: File server
+      category: Uncategorized
+      description: Within corporate network
+    - name: Citrix & Navision
+      category: Uncategorized
+      description: Within corporate network
+    - name: Printing & Scanning
+      category: Uncategorized
+      description: Within corporate network
+    - name: Internet access
+      category: Uncategorized
+      description: Within corporate network
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#f57920"
   enableLastMod: false
@@ -44,6 +58,9 @@ params:
   logo: https://addcon.com/images/addcon/logo/addcon.png
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: test
+      link: addcon.com
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
