@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2022-08-03T09:30:00.000Z
 affected:
-  - printing-scanning
+  - Printing & Scanning
 severity: disrupted
 ---
 Scanning within the corporate network is not possible Printing is operational
