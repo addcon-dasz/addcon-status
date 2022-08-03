@@ -2,7 +2,7 @@ title: ADDCON Systems Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://systemstatus.addcon.com
+baseURL: https://status.addcon.com
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
