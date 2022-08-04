@@ -41,7 +41,7 @@ params:
       name: addcon.com website
     - name: Microsoft 365
       category: Uncategorized
-      description: Email, Teams, SharePoint functionality
+      description: Email, Teams, SharePoint, OneDrive functionality
     - name: File server
       category: Corporate Network
       description: Access to drive H and N
