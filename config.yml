@@ -42,6 +42,9 @@ params:
     - name: Microsoft 365
       category: Uncategorized
       description: Email, Teams, SharePoint, OneDrive functionality
+    - name: CodeTwo Signatures
+      category: Uncategorized
+      description: Auto signature insertion in emails
     - name: File server
       category: Corporate Network
       description: Access to drive H and N
