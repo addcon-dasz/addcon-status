@@ -2,11 +2,11 @@
 section: issue
 title: Navision database log is full
 date: 2022-08-05T07:05:05.273Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
-resolvedWhen: 2022-08-05T07:05:05.282Z
+pin: false
+resolvedWhen: 2022-08-05T07:41:48.671Z
 affected:
   - Citrix & Navision
 severity: down
