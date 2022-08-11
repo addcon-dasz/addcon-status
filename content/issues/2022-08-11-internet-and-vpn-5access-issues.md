@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2022-08-11T12:27:36.202Z
+resolvedWhen: ""
 affected:
   - Internet access
   - ADDCON VPN
@@ -14,8 +14,6 @@ severity: disrupted
 ---
 *Investigating*
 
-
-
-*Users trying to access external websites get a blocked message from the firewall.*
+*Users trying to access external websites while in the office get a blocked message from the firewall.*
 
 *Esseco has been engaged to assist in investigating*
