@@ -17,4 +17,4 @@ severity: disrupted
 
 *VPN users cannot connect to internal resources like file server*
 
-*Update: Cause found and mitigated. Issue is now resolved*
+*Update: Cause found and mitigated. Issue is now resolved. A log out and log in might be needed for users that are still experiencing issues.*
