@@ -80,6 +80,9 @@ params:
     - name: Vodafone Telephony
       category: Germany specific
       description: Landline and Mobile telephony in Germany
+    - name: ADDCON VPN
+      category: Corporate Network
+      description: Connection to the corporate network from external
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#181a1b"
   enableLastMod: false
