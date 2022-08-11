@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Internet and VPN 5access issues
+title: Internet and VPN access issues
 date: 2022-08-11T12:27:36.192Z
 resolved: false
 draft: false
