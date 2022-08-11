@@ -6,15 +6,17 @@ resolved: false
 draft: false
 informational: false
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2022-08-11T13:00:39.926Z
 affected:
   - Internet access
   - ADDCON VPN
   - Vodafone Telephony
-severity: disrupted
+severity: notice
 ---
 *Investigating*
 
 *Users trying to access external websites while in the office get a blocked message from the firewall.*
 
 *VPN users cannot connect to internal resources like file server*
+
+*Update: Access to resources is restored. Monitoring and checking cause of issue*
