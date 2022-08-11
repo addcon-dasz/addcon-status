@@ -16,4 +16,4 @@ severity: disrupted
 
 *Users trying to access external websites while in the office get a blocked message from the firewall.*
 
-*Esseco has been engaged to assist in investigating*
+*VPN users cannot connect to internal resources like file server*
