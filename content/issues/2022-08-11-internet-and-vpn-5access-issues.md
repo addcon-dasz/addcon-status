@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Internet and VPN access issues
+title: Access to resources outside of the company are not reachable
 date: 2022-08-11T12:27:36.192Z
 resolved: false
 draft: false
@@ -10,6 +10,7 @@ resolvedWhen: ""
 affected:
   - Internet access
   - ADDCON VPN
+  - Vodafone Telephony
 severity: disrupted
 ---
 *Investigating*
