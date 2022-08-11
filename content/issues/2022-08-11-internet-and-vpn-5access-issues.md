@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Access to resources outside of the company are not reachable
+title: Resources outside of the company are not reachable
 date: 2022-08-11T12:27:36.192Z
 resolved: false
 draft: false
