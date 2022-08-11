@@ -9,6 +9,7 @@ pin: false
 resolvedWhen: 2022-08-11T12:27:36.202Z
 affected:
   - Internet access
+  - ADDCON VPN
 severity: disrupted
 ---
 *Investigating*
