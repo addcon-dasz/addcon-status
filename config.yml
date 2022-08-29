@@ -62,8 +62,6 @@ params:
       description: WiFi functionality in the offices
     - name: IBM Lotus Notes
       category: Corporate Network
-    - name: Clue
-      category: Norway specific
     - name: Emmasped
       category: Norway specific
     - name: Synergi
